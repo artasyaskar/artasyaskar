@@ -60,7 +60,6 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
 
 - **Kanban Board Fullstack**
   - Repo: https://github.com/artasyaskar/kanban_Board_fullstack
-  - Live: https://kanban-board-fullstack.vercel.app
   - Full-stack task management application with drag-and-drop kanban interface and real-time updates.
 
 - **CLI Arena (multi-stack ecosystem)**
