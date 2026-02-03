@@ -45,6 +45,24 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
   - Repo: https://github.com/artasyaskar/cyberwatch
   - Modular Python framework to detect, log, and report cybersecurity threats in log files.
 
+- **Handsign Detection**
+  - Repo: https://github.com/artasyaskar/Handsign-Detection_Project
+  - Real-time hand gesture recognition using OpenCV and TensorFlow with 95%+ accuracy on a custom dataset.
+
+- **JOJO My Own Assistant**
+  - Repo: https://github.com/artasyaskar/JOJO-My-Own-Assistant
+  - Personal AI-powered assistant built with Python, featuring conversational capabilities and task automation.
+
+- **3D Dino Game**
+  - Repo: https://github.com/artasyaskar/3D_DinoGame
+  - Live: https://3-d-dino-game.vercel.app
+  - Browser-based endless runner built with JavaScript and WebGL, featuring adaptive difficulty and collision detection.
+
+- **Kanban Board Fullstack**
+  - Repo: https://github.com/artasyaskar/kanban_Board_fullstack
+  - Live: https://kanban-board-fullstack.vercel.app
+  - Full-stack task management application with drag-and-drop kanban interface and real-time updates.
+
 - **CLI Arena (multi-stack ecosystem)**
   - ML + FastAPI: https://github.com/artasyaskar/cli-arena-ml-fastapi
   - DevOps + Go: https://github.com/artasyaskar/cli-arena-devops-go
@@ -57,17 +75,3 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
 - **Phone**: +92 342 6386433
 - **Location**: Lahore, Pakistan
 
-<!--
-**artasyaskar/artasyaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
