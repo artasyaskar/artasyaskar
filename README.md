@@ -55,7 +55,7 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
 
 - **3D Dino Game**
   - Repo: https://github.com/artasyaskar/3D_DinoGame
-  - Live: https://3-d-dino-game.vercel.app
+  - Live: https://3d-dino-game.vercel.app
   - Browser-based endless runner built with JavaScript and WebGL, featuring adaptive difficulty and collision detection.
 
 - **Kanban Board Fullstack**
