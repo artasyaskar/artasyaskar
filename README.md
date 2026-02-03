@@ -35,12 +35,10 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
 
 - **Project.Bible AI**
   - Repo: https://github.com/artasyaskar/Project.Bible-Ai
-  - Live: https://project-bible-ai.vercel.app
   - AI-powered contextual summaries and historical references for Bible study with multilingual support.
 
 - **ControlVerse**
   - Repo: https://github.com/artasyaskar/ControlVerse
-  - Live: https://control-verse.vercel.app
   - Control-systems simulation and visualization platform (multi-language stack).
 
 - **CyberWatch**
@@ -52,12 +50,6 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
   - DevOps + Go: https://github.com/artasyaskar/cli-arena-devops-go
   - Mobile (Expo): https://github.com/artasyaskar/cli-arena-mobile-expo
   - Web (Next.js): https://github.com/artasyaskar/cli-arena-web-nextjs
-
-### GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artasyaskar&show_icons=true&hide_title=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artasyaskar&layout=compact)
-![GitHub streak](https://streak-stats.demolab.com?user=artasyaskar)
 
 ### Contact
 
