@@ -71,6 +71,6 @@ AI-powered developer building multilingual tooling, CLI ecosystems, and real-tim
 ### Contact
 
 - **Email**: artasyaskar@gmail.com
-- **Phone**: +92 342 6386433
+- **Phone**: +92 349 1609796
 - **Location**: Lahore, Pakistan
 
